@@ -25,6 +25,7 @@
 }
 .case_show img{
 	width: 100%;
+	min-height: 252px;
 }
 .case_show .c_desc{
 	width: 275px;
@@ -59,6 +60,7 @@
 }
 #c_list li img{
 	width: 100%;
+	min-height: 115px;
 	-webkit-filter: grayscale(100%);
     -moz-filter: grayscale(100%);
     -ms-filter: grayscale(100%);
